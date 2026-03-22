@@ -1,0 +1,40 @@
+record_id,doi,pmid,title,access_method,oa_status
+Silvestrini2019effort,10.1371/journal.pone.0222081,31522029,Anticipated experienced and remembered subjective effort and discomfort,PubMed/PLOS,open_access
+Pattyn2018peakend,10.1007/s11031-018-9686-z,29432429,Mental effort and discomfort: peak-end effect,PubMed,subscription
+Gergelyfi2015mental,10.3389/fnbeh.2015.00176,25784862,Dissociation between mental fatigue and motivational state,PubMed/Frontiers,open_access
+Muller2024engagement,10.1111/psyp.14577,38734281,Engagement of mental effort in response to mental fatigue,PubMed,subscription
+Wascher2022mentalfatigue,10.1111/psyp.14088,35511531,Effects of mental fatigue on effort allocation,PubMed,subscription
+Hockey2023fatigue,10.3389/fnins.2022.1073114,,Fatigue and Human Performance Updated Framework,PubMed/Frontiers,open_access
+Blain2025mentalfatigue,,40938104,Mental Fatigue Negatively Impacts Performance,PubMed,subscription
+Muller2023computational,10.1038/s41467-023-40522-0,37647742,Computational mechanisms of physical and cognitive fatigue,PubMed/Nature,open_access
+Borragán2017cognitive,10.1016/j.cortex.2017.01.023,28237888,Cognitive fatigue: Time-based Resource-sharing,PubMed,subscription
+Wylie2024mentaleffort,10.3389/fpsyg.2024.1318498,38309319,What Is Mental Effort: A Clinical Perspective,PubMed/Frontiers,open_access
+Wiehler2022neurometabolic,10.1016/j.cub.2022.07.010,35961314,Neuro-metabolic account of daylong cognitive work,PubMed,subscription
+Blain2023considerations,10.1093/cercor/bhac467,36369737,Considerations on gradual glutamate accumulation,PubMed,subscription
+Johansson2004glutamate,10.1186/1742-2094-1-22,15527505,Potential role of glutamate transport in mental fatigue,PubMed/BMC,open_access
+Apsvalka2015fmrs,10.1002/hbm.22897,26059006,Glutamate increase in mPFC during mental imagery,PubMed,subscription
+Gavelin2020exhaustion,10.1093/cercor/bhz340,32195540,MRS glutamate in exhaustion syndrome,PubMed,subscription
+Christie2015cognitive,10.3389/fnins.2015.00289,,Cognitive cost as dynamic energetic allocation,PubMed/Frontiers,open_access
+Otto2018plosone,10.1371/journal.pone.0198204,29782522,Neural integration of risk effort and time,PubMed/PLOS,open_access
+Seth2016active,10.1098/rstb.2016.0007,28080966,Active interoceptive inference and emotional brain,PubMed/PMC,open_access
+Barrett2016allostasis,10.1098/rstb.2016.0011,28080969,Active inference theory of allostasis in depression,PubMed/PMC,open_access
+Seth2013interoceptive,10.1016/j.tics.2013.09.007,24126130,Interoceptive inference emotion embodied self,PubMed,subscription
+Ainley2015interoceptive,10.1038/nrn3950,26016744,Interoceptive predictions in the brain,PubMed,subscription
+Tschantz2022simulating,10.1016/j.biopsycho.2022.108266,35051559,Simulating interoceptive control via active inference,PubMed,subscription
+Petzschner2021computational,10.1016/j.tins.2020.09.012,33378658,Computational Models of Interoception,PubMed,subscription
+Wolff2019selfcontrol,10.1016/j.cognition.2019.06.013,31330380,Self-control linked to interoceptive inference,PubMed,subscription
+Stephan2016allostatic,10.3389/fnhum.2016.00550,,Allostatic Self-efficacy fatigue depression,PubMed/Frontiers,open_access
+Kurzban2013opportunity,10.1017/S0140525X12003196,24304775,Opportunity cost model of subjective effort,PubMed,subscription
+Inzlicht2018effortparadox,10.1016/j.tics.2018.01.007,,Effort paradox: costly and valued,PubMed,subscription
+Shenhav2013evc,10.1016/j.neuron.2013.07.007,23889930,Expected value of control: ACC function,PubMed,subscription
+Shenhav2017evcreview,10.1146/annurev-neuro-072116-031526,,Rational Mechanistic Account of Mental Effort,PubMed,subscription
+Shenhav2016daccvalue,10.1038/nn.4384,27669989,dACC and the value of control,PubMed,subscription
+Yee2022aversive,10.1016/j.neubiorev.2021.12.016,,Aversive motivation and cognitive control,PubMed,subscription
+Massar2018effortdiscounting,10.3389/fpsyg.2018.00843,29899717,Motivational Effects of Cognitive Fatigue,PubMed/Frontiers,open_access
+Hogan2024neurobiology,10.1007/s11065-024-09638-6,39071329,Neurobiology of Cognitive Fatigue and Effort-Based Choice,PubMed,subscription
+Westbrook2013intrinsic,10.1017/S0140525X1300109X,24304795,Intrinsic cost of cognitive control,PubMed,subscription
+Westbrook2015neuroeconomic,10.3758/s13415-015-0334-y,,Cognitive effort: neuroeconomic approach,PubMed,subscription
+Kool2010decision,10.1037/a0020198,,Decision making and avoidance of cognitive demand,PubMed,subscription
+McLaughlin2023pupilometry,10.1111/psyp.14256,36734299,Fatigue effects in cognitive pupillometry,PubMed,subscription
+vanderWel2018pupildilation,10.3758/s13423-018-1432-y,29435963,Pupil dilation as effort index,PubMed,subscription
+Cathcart2009central,10.1111/j.1468-2982.2009.01870.x,19614706,Central mechanisms of stress-induced headache,PubMed,subscription

@@ -1,0 +1,33 @@
+category,subcategory,count,percentage
+Literature Layer,L1 Effort Cost,15,38.5
+Literature Layer,L2 Metabolic Cost,8,20.5
+Literature Layer,L3 Aversive Signal,8,20.5
+Literature Layer,L4 Predictive Processing,9,23.1
+Literature Layer,L5 Somatic/Pain,1,2.6
+Literature Layer,Multi-layer,7,17.9
+Study Design,Empirical (within-subjects),10,25.6
+Study Design,Empirical (between-subjects),4,10.3
+Study Design,Empirical (RCT/crossover),1,2.6
+Study Design,Empirical (case-control),1,2.6
+Study Design,Review/theoretical,17,43.6
+Study Design,Computational/theoretical,4,10.3
+Study Design,Commentary,2,5.1
+Discomfort Measured,Yes (any discomfort/fatigue VAS),12,30.8
+Discomfort Measured,No (effort/neural measures only),14,35.9
+Discomfort Measured,N/A (theoretical/review),13,33.3
+Effort Measured,Yes (discounting/ratings/avoidance),16,41.0
+Effort Measured,No,10,25.6
+Effort Measured,N/A (theoretical/review),13,33.3
+Neural/Metabolic Measure,fMRI,5,12.8
+Neural/Metabolic Measure,MRS,4,10.3
+Neural/Metabolic Measure,EEG,3,7.7
+Neural/Metabolic Measure,Pupillometry,3,7.7
+Neural/Metabolic Measure,None/N/A,24,61.5
+Somatic Localization,Head-specific,1,2.6
+Somatic Localization,General fatigue,10,25.6
+Somatic Localization,Not assessed,7,17.9
+Somatic Localization,N/A,21,53.8
+Task Duration (empirical only),30 min,5,31.3
+Task Duration (empirical only),45-60 min,5,31.3
+Task Duration (empirical only),90+ min,4,25.0
+Task Duration (empirical only),375 min (daylong),1,6.3

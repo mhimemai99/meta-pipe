@@ -1,0 +1,115 @@
+# Scoping Review Research Topic
+
+## Title
+Somatic Discomfort During Sustained Cognitive Effort in Healthy Adults: A Scoping Review
+
+---
+
+## Research Question
+What is the nature and extent of existing research on somatic discomfort (including headache-like sensations, fatigue, and bodily discomfort) experienced during or after sustained cognitive effort in healthy adults, and what theoretical frameworks have been used to explain this phenomenon?
+
+---
+
+## PCC Framework (Population-Concept-Context — standard for scoping reviews)
+
+### Population
+**Inclusion:**
+- Healthy adults (≥18 years)
+- No current headache disorder diagnosis (no migraine, no chronic tension-type headache)
+- No chronic pain conditions
+- No neurological or psychiatric disorders that would confound cognitive effort measures
+
+**Exclusion:**
+- Studies exclusively using clinical headache/pain populations (TTH, migraine patients)
+- Pediatric populations (<18 years)
+- Studies focused solely on pharmacological interventions without cognitive task component
+
+---
+
+### Concept
+The intersection of sustained cognitive effort and somatic discomfort, spanning five literature domains:
+1. **Cognitive effort cost**: Opportunity cost models, effort paradox, Expected Value of Control (EVC)
+2. **Neural metabolic cost**: Glutamate accumulation, glycogen depletion, prefrontal cortex metabolic changes
+3. **Effort as aversive signal**: dACC-mediated effort monitoring, effort discounting, aversive motivation
+4. **Predictive processing / allostasis**: Free energy principle, active interoceptive inference, interoceptive prediction error
+5. **Somatic referral of cognitive fatigue**: Pericranial mechanisms, stress-hyperalgesia, central sensitization in non-clinical populations
+
+---
+
+### Context
+- **Task requirement**: Sustained cognitive task ≥30 minutes (N-back, Stroop, sustained attention, working memory, simulated workday)
+- **Comparator**: Rest, low-demand control condition, or pre-task baseline
+- **Settings**: Laboratory, online/remote, simulated workplace environments
+- **Study designs**: Any (RCTs, within-subjects, between-subjects, observational, neuroimaging, computational modeling, theoretical/review papers contributing novel frameworks)
+
+---
+
+## Outcomes of Interest (Charting Variables)
+
+### Primary charting domains:
+1. **Somatic discomfort measures**: VAS pain/discomfort, headache ratings, fatigue scales, bodily discomfort inventories
+2. **Effort cost measures**: Effort discounting tasks, subjective effort ratings, willingness to exert effort
+3. **Neural/metabolic markers**: fMRI activation patterns, MRS glutamate levels, EEG changes, pupillometry
+4. **Somatic localization**: Whether discomfort was localized (head, neck, eyes) vs. diffuse/general
+5. **Theoretical framework**: Which of the 5 literature layers was invoked to explain findings
+
+### Secondary charting domains:
+6. Task type and duration
+7. Sample characteristics (N, age, screening criteria)
+8. Study design and methodology
+9. Key findings (1-2 sentence summary per study)
+
+---
+
+## Methodology
+- **Scoping review** following Arksey & O'Malley (2005) framework, refined by Levac et al. (2010) and JBI methodology
+- **Reporting**: PRISMA-ScR (PRISMA Extension for Scoping Reviews; Tricco et al., 2018)
+- **No formal quality/risk-of-bias assessment** (per JBI scoping review guidance — quality appraisal is optional)
+- **Narrative synthesis** organized by the 5 literature layers
+
+---
+
+## Date Range
+- From: 2010 (captures early EVC and opportunity cost theoretical work)
+- To: 2026 (present)
+
+## Language
+- English only
+
+## Databases
+- PubMed (via E-utilities API)
+- Semantic Scholar (via API — for citation chasing and non-PubMed indexed papers)
+- CrossRef (for DOI validation and metadata enrichment)
+- Unpaywall (for open access status)
+
+---
+
+## Expected Yield
+- 40-80 records pre-screening
+- 20-60 studies included after screening
+- Cross-disciplinary: cognitive neuroscience, neuroeconomics, predictive processing, interoception, pain science
+
+## Target Journals
+- Frontiers in Psychology (Cognition section)
+- PLOS ONE
+- Neuroscience & Biobehavioral Reviews
+- Neuropsychology Review
+
+---
+
+## Key References (from literature map)
+1. Kurzban et al. (2013) — Opportunity cost model of effort. BBS.
+2. Inzlicht, Shenhav & Olivola (2018) — Effort paradox. TiCS. doi:10.1016/j.tics.2018.01.007
+3. Shenhav, Musslick et al. (2017) — EVC model. Annual Rev Neuroscience.
+4. Wiehler, Pessiglione et al. (2022) — Glutamate accumulation in lPFC. Current Biology. doi:10.1016/j.cub.2022.07.010
+5. Christie & Schrater (2015) — Cognitive cost as energetic allocation. Frontiers in Neuroscience. doi:10.3389/fnins.2015.00289
+6. Otto, Zijlstra & Goebel (2018) — fMRI workday fatigue. PLoS ONE. doi:10.1371/journal.pone.0198204
+7. Yee, Leng, Shenhav & Braver (2022) — Aversive motivation and control. NBBR. doi:10.1016/j.neubiorev.2021.12.016
+8. Seth & Friston (2016) — Active interoceptive inference. Phil Trans B.
+
+## Rationale for Scoping Review (not Meta-Analysis)
+- Outcomes are not consistently operationalized across studies (VAS fatigue, effort discounting, PPT, headache diary, self-reported difficulty)
+- No common manipulation ('sustained cognitive effort' ranges from 15-min Stroop to 8-hour simulated workday)
+- The healthy non-clinical population is almost entirely absent from existing headache literature
+- Zero studies have jointly measured interoceptive discomfort localization + effort economics — there is nothing to pool
+- A scoping review maps the heterogeneous cross-disciplinary terrain and makes the research gap visible

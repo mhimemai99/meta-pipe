@@ -1,0 +1,27 @@
+# Search Queries — Round 01
+# Date: 2026-03-22
+# Databases: PubMed (via WebSearch due to API restrictions), supplemented with Semantic Scholar citation tracing
+
+## Query 1 (L1, L3, L5): Cognitive effort + somatic discomfort
+("cognitive effort" OR "mental effort" OR "cognitive fatigue" OR "mental fatigue") AND ("discomfort" OR "headache" OR "somatic" OR "pain" OR "fatigue") AND ("healthy" OR "healthy adults" OR "healthy volunteers")
+Records: 10
+
+## Query 2 (L2): Neural metabolic cost of cognition
+("mental fatigue" OR "cognitive fatigue" OR "cognitive effort") AND ("glutamate" OR "metabolic" OR "prefrontal" OR "glycogen" OR "magnetic resonance spectroscopy") AND ("effort" OR "cost" OR "fatigue")
+Records: 7
+
+## Query 3 (L4): Interoception + predictive processing + effort
+("interoception" OR "interoceptive" OR "predictive processing" OR "allostasis" OR "active inference") AND ("cognitive effort" OR "mental effort" OR "cognitive control") AND ("discomfort" OR "fatigue" OR "aversive" OR "prediction error")
+Records: 8
+
+## Query 4 (L1, L3): Effort discounting + cognitive control cost
+("effort discounting" OR "effort-based decision" OR "expected value of control" OR "effort paradox" OR "cognitive effort") AND ("cognitive" OR "mental") AND ("aversive" OR "cost" OR "fatigue")
+Records: 13
+
+## Query 5 (L5): Tension-type headache + cognitive load + healthy
+("tension-type headache" OR "cognitive load") AND ("stress" OR "healthy") AND ("pain threshold" OR "pericranial" OR "discomfort")
+Records: 5
+
+## Total before deduplication: 43
+## Total after deduplication: 43
+## Unique records for screening: 43

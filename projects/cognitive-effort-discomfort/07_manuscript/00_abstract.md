@@ -1,0 +1,13 @@
+# Abstract
+
+**Background:** Sustained cognitive effort frequently produces subjective discomfort — a vague fatigue, head pressure, or headache-like sensation — even in healthy individuals with no headache disorder. Despite its ubiquity, the mechanisms linking effortful cognition to somatic discomfort remain poorly understood because the relevant literature is distributed across at least five disconnected research domains: cognitive effort economics, neural metabolic cost, effort monitoring, predictive processing/interoception, and headache/pain science.
+
+**Objective:** This scoping review maps the nature and extent of research on somatic discomfort during sustained cognitive effort in healthy adults, identifies which theoretical frameworks have been applied, and delineates critical research gaps.
+
+**Methods:** We conducted a scoping review following the Arksey and O'Malley framework, reported per PRISMA-ScR guidelines. PubMed, Semantic Scholar, and CrossRef were searched systematically for studies published between 2010 and 2026. Eligibility criteria included healthy adult populations, sustained cognitive tasks (≥30 minutes), and measurement of somatic discomfort, effort cost, or neural/metabolic markers. Data were charted across 18 variables organized by five literature layers and synthesized narratively.
+
+**Results:** Thirty-nine studies were included (16 empirical, 23 theoretical/review). The literature was distributed across five layers: effort cost mechanisms (n=15, 38.5%), neural metabolic cost (n=8, 20.5%), effort as aversive signal (n=8, 20.5%), predictive processing/allostasis (n=9, 23.1%), and somatic referral (n=1, 2.6%). Only 12 studies (30.8%) measured any form of discomfort or fatigue, and only one study (2.6%) assessed head-specific somatic localization during a cognitive task. No study has jointly measured effort-based decision shifts and somatic discomfort localization. The cross-layer conceptual model — from glutamate accumulation through interoceptive prediction error to conscious discomfort — is theoretically coherent but empirically untested at every bridging point.
+
+**Conclusions:** The cognitive effort–discomfort relationship is a well-theorized but poorly tested phenomenon. Six critical research gaps were identified, the most fundamental being the complete absence of studies jointly measuring effort economics and somatic localization of discomfort. A priority experiment combining effort discounting with somatic discomfort mapping is proposed.
+
+**Keywords:** cognitive effort, mental fatigue, somatic discomfort, interoception, predictive processing, expected value of control, scoping review

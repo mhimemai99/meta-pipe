@@ -1,0 +1,95 @@
+title: "Somatic Discomfort During Sustained Cognitive Effort in Healthy Adults: A Scoping Review"
+protocol_date: "2026-03-22"
+version: 1.0
+review_type: scoping_review
+methodology: "Arksey & O'Malley (2005), refined by Levac et al. (2010), JBI methodology"
+reporting_standard: "PRISMA-ScR (Tricco et al., 2018)"
+
+research_question: >
+  What is the nature and extent of existing research on somatic discomfort
+  (including headache-like sensations, fatigue, and bodily discomfort)
+  experienced during or after sustained cognitive effort in healthy adults,
+  and what theoretical frameworks have been used to explain this phenomenon?
+
+analysis_type:
+  preliminary: scoping_review
+  confirmed: scoping_review
+  confirmation_stage: "N/A — scoping reviews do not require NMA/pairwise gate"
+
+population:
+  description: "Healthy adults with no current headache disorder or chronic pain"
+  inclusion:
+    - "Adults ≥18 years"
+    - "No current headache disorder diagnosis (migraine, chronic TTH)"
+    - "No chronic pain conditions"
+    - "No neurological or psychiatric disorders confounding cognitive effort"
+  exclusion:
+    - "Studies exclusively using clinical headache/pain populations"
+    - "Pediatric populations (<18 years)"
+    - "Pharmacological-only interventions without cognitive task"
+
+concept:
+  description: "Intersection of sustained cognitive effort and somatic discomfort"
+  domains:
+    L1_effort_cost:
+      label: "Cognitive effort cost"
+      keywords: ["opportunity cost model", "effort paradox", "Expected Value of Control", "EVC", "effort valuation"]
+    L2_metabolic:
+      label: "Neural metabolic cost"
+      keywords: ["glutamate accumulation", "glycogen depletion", "PFC metabolic", "MRS", "astrocyte"]
+    L3_aversive_signal:
+      label: "Effort as aversive signal"
+      keywords: ["dACC", "effort monitoring", "effort discounting", "aversive motivation", "cognitive control cost"]
+    L4_predictive:
+      label: "Predictive processing / allostasis"
+      keywords: ["free energy", "active inference", "interoceptive prediction error", "allostasis", "interoception"]
+    L5_somatic:
+      label: "Somatic referral of cognitive fatigue"
+      keywords: ["pericranial", "stress-hyperalgesia", "central sensitization", "tension-type headache mechanism"]
+
+context:
+  task_requirement: "Sustained cognitive task ≥30 minutes"
+  task_examples:
+    - "N-back (2-back, 3-back)"
+    - "Stroop (sustained)"
+    - "Sustained attention tasks"
+    - "Working memory tasks"
+    - "Simulated workday paradigms"
+  comparator: "Rest, low-demand control, or pre-task baseline"
+  settings: ["laboratory", "online/remote", "simulated workplace"]
+  study_designs: ["RCTs", "within-subjects", "between-subjects", "observational", "neuroimaging", "computational modeling", "theoretical frameworks"]
+
+outcomes:
+  primary_charting:
+    - "Somatic discomfort measures (VAS, headache rating, fatigue scales)"
+    - "Effort cost measures (effort discounting, subjective effort, willingness)"
+    - "Neural/metabolic markers (fMRI, MRS, EEG, pupillometry)"
+    - "Somatic localization (head vs. general vs. not assessed)"
+    - "Theoretical framework invoked (L1-L5)"
+  secondary_charting:
+    - "Task type and duration"
+    - "Sample characteristics (N, age, screening)"
+    - "Study design"
+    - "Key findings summary"
+
+search:
+  databases:
+    - name: "PubMed"
+      method: "E-utilities API"
+      required: true
+    - name: "Semantic Scholar"
+      method: "API (keyword + citation chasing)"
+      required: true
+    - name: "CrossRef"
+      method: "API (DOI validation, metadata)"
+      required: true
+    - name: "Unpaywall"
+      method: "API (open access check)"
+      required: false
+  date_range:
+    from: 2010
+    to: 2026
+  language: "English"
+
+quality_assessment: "Not required for scoping reviews per JBI guidance"
+synthesis_method: "Narrative synthesis organized by 5 literature layers"
