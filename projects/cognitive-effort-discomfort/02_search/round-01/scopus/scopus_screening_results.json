@@ -1,0 +1,1604 @@
+[
+  {
+    "doi": "10.1016/j.parkreldis.2025.107355",
+    "title": "Motivational disturbances and cognitive effort-based decision-making in Parkinson's disease",
+    "creator": "Scott B.M.",
+    "journal": "Parkinsonism and Related Disorders",
+    "year": "2025",
+    "score": 7,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s12144-022-03145-4",
+    "title": "Cognitive effort in Schizophrenia: Dissimilar effects on cardiovascular activity and subjective effort",
+    "creator": "D\u00e9combe A.",
+    "journal": "Current Psychology",
+    "year": "2023",
+    "score": 6,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.peh.2019.100150",
+    "title": "The effect of ego depletion or mental fatigue on subsequent physical endurance performance: A meta-analysis",
+    "creator": "Giboin L.S.",
+    "journal": "Performance Enhancement and Health",
+    "year": "2019",
+    "score": 6,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/978-3-030-20473-0_17",
+    "title": "The neuromodulative effects of tiredness and mental fatigue on cognition and the use of medication",
+    "creator": "Le\u00f3n-Carri\u00f3n J.",
+    "journal": "Advances in Intelligent Systems and Computing",
+    "year": "2020",
+    "score": 5,
+    "layers": [
+      "L1",
+      "L2"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "pharmacological focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.bbr.2025.115631",
+    "title": "Differences in frontal cortical brain function between individuals suffering from pathological mental fatigue following acquired brain injury and healthy individuals",
+    "creator": "Glav\u00e5 G.",
+    "journal": "Behavioural Brain Research",
+    "year": "2025",
+    "score": 5,
+    "layers": [
+      "L5"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.schres.2015.07.023",
+    "title": "Effort-based decision making as an objective paradigm for the assessment of motivational deficits in schizophrenia",
+    "creator": "Fervaha G.",
+    "journal": "Schizophrenia Research",
+    "year": "2015",
+    "score": 4,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jad.2025.05.042",
+    "title": "Resting-state functional connectivity of the rostral and dorsal anterior cingulate cortex in older bereaved adults",
+    "creator": "Le Fran\u00e7ois T.",
+    "journal": "Journal of Affective Disorders",
+    "year": "2025",
+    "score": 4,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1024/1016-264x/a000392",
+    "title": "Effects of Perceived COVID-19 Exposure and Action-Outcome Predictability on the Motivation to Invest Cognitive Effort",
+    "creator": "Kolano J.",
+    "journal": "Zeitschrift Fur Neuropsychologie",
+    "year": "2024",
+    "score": 4,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1111/adb.13210",
+    "title": "Self-control impacts symptoms defining Internet gaming disorder through dorsal anterior cingulate\u2013ventral striatal pathway",
+    "creator": "Gong L.",
+    "journal": "Addiction Biology",
+    "year": "2022",
+    "score": 4,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.dcn.2015.10.002",
+    "title": "Dorsal anterior cingulate cortex in typically developing children: Laterality analysis",
+    "creator": "Wang J.",
+    "journal": "Developmental Cognitive Neuroscience",
+    "year": "2015",
+    "score": 4,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1186/s12888-024-06441-4",
+    "title": "The relationship between sensory phenomena and interoception across the obsessive\u2013compulsive spectrum: a systematic review",
+    "creator": "Wilson L.A.",
+    "journal": "BMC Psychiatry",
+    "year": "2025",
+    "score": 4,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jenvp.2025.102843",
+    "title": "Pro-environmental decisions are hampered by their opportunity costs \u2013 evidence from effort-based decision-making",
+    "creator": "Kukkonen N.",
+    "journal": "Journal of Environmental Psychology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.ijpsycho.2025.113210",
+    "title": "Cardiovascular responses to mental fatigue in a sequential task paradigm",
+    "creator": "Place U.",
+    "journal": "International Journal of Psychophysiology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.paid.2025.113120",
+    "title": "The relationship between task value, mental fatigue, and motivation: The role of trait mindfulness",
+    "creator": "W\u00f3jcik N.",
+    "journal": "Personality and Individual Differences",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.16719/j.cnki.1671-6981.20250218",
+    "title": "The Influence of Gain-Loss Contexts and Effort Cost on Prosocial Decision-Making: An ERP Study",
+    "creator": "Yangang N.",
+    "journal": "Journal of Psychological Science",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/1612197x.2024.2402800",
+    "title": "Influence of punishments associated with task outcomes in physical and mental efforts performed by semi-elite soccer players during training tasks",
+    "creator": "D\u00edaz-Garc\u00eda J.",
+    "journal": "International Journal of Sport and Exercise Psychology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/1612197x.2025.2468678",
+    "title": "Does latest match outcome influence subsequent mental training demands and mental fatigue? A longitudinal study in youth-elite soccer",
+    "creator": "Rubio-Morales A.",
+    "journal": "International Journal of Sport and Exercise Psychology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/02671522.2025.2507592",
+    "title": "Zooming to work or working to Zoom: relations between Zoom fatigue, cognitive load, and boredom",
+    "creator": "Park M.J.",
+    "journal": "Research Papers in Education",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "education/consumer domain",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1504/ijhfe.2025.151132",
+    "title": "Not just a sickness: exploring correlation between virtual reality sickness, cognitive load, and objective physiological measurements",
+    "creator": "Habibah A.",
+    "journal": "International Journal of Human Factors and Ergonomics",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/icabme66883.2025.11211834",
+    "title": "Predicting Cognitive Fatigue Levels Using Multimodal Signals",
+    "creator": "Allaw J.",
+    "journal": "International Conference on Advances in Biomedical Engineering Icabme",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.6018/cpd.644651",
+    "title": "Mathematics Induces Mental Fatigue but Has Small Effect on Specific Volleyball Skills: a Randomized Crossover Study in Young Female Players",
+    "creator": "Costa Y.",
+    "journal": "Cuadernos De Psicologia Del Deporte",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1063/5.0227410",
+    "title": "Measurement of workload on education staff of the UNISBA faculty of engineering using the mental effort rating scale (RSME) and NASA-TLX methods",
+    "creator": "Septiani A.",
+    "journal": "Aip Conference Proceedings",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "education/consumer domain",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s11031-024-10083-0",
+    "title": "The influence of performance incentives on the subjective experience of mental effort",
+    "creator": "Garrison K.E.",
+    "journal": "Motivation and Emotion",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1371/journal.pone.0307994",
+    "title": "Examining the alignment between subjective effort and objective force production",
+    "creator": "Rewitz K.",
+    "journal": "Plos One",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1523/eneuro.0068-24.2024",
+    "title": "Short-Term Memory Capacity Predicts Willingness to Expend Cognitive Effort for Reward",
+    "creator": "Forys B.J.",
+    "journal": "Eneuro",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1002/ejsc.12029",
+    "title": "Mental fatigue impairs the number of repetitions to muscular failure in the half back-squat exercise for low- and mid- but not high-intensity resistance exercise",
+    "creator": "de Lima-Junior D.",
+    "journal": "European Journal of Sport Science",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.16719/j.cnki.1671-6981.20240201",
+    "title": "Influencing Factors in the Allocation of Cognitive Control: Rewards and Costs",
+    "creator": "Si S.",
+    "journal": "Journal of Psychological Science",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1",
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1037/mot0000380",
+    "title": "Autonomy Influences the Subjective Experience of Mental Effort During a Reading Comprehension Task",
+    "creator": "Wahlers J.N.",
+    "journal": "Motivation Science",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "education/consumer domain",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.6018/cpd.582971",
+    "title": "The mental fatigue impaired beach volleyball attack technical-tactical performance: a crossover and randomized study",
+    "creator": "Domingos-Gomes J.",
+    "journal": "Cuadernos De Psicologia Del Deporte",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/02701367.2023.2174488",
+    "title": "Mental Fatigue Impairs Second Serve Accuracy in Tennis Players",
+    "creator": "Filipas L.",
+    "journal": "Research Quarterly for Exercise and Sport",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.47197/retos.v51.101040",
+    "title": "Mental fatigue in football: behavioural responses of players with high and low tactical performance",
+    "creator": "da Silva D.C.",
+    "journal": "Retos",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jebo.2023.05.020",
+    "title": "Defaults and cognitive effort",
+    "creator": "Ortmann A.",
+    "journal": "Journal of Economic Behavior and Organization",
+    "year": "2023",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.4324/9781003246183-2",
+    "title": "Studying Mental Fatigue: Dr. Tsuruko Arai Haraguchi Inspires from the Past",
+    "creator": "Ceynar M.L.",
+    "journal": "Early Psychological Research Contributions from Women of Color Volume 1",
+    "year": "2023",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.3233/hsm-220068",
+    "title": "Analysis of mental effort and its subjective and psychophysiological indicators for gas transport dispatchers",
+    "creator": "Iordache R.M.",
+    "journal": "Human Systems Management",
+    "year": "2023",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1037/xhp0001148",
+    "title": "Competition and Reward Structures Nearly Eliminate Time-on-Task Performance Decrements: Implications for Theories of Vigilance and Mental Effort",
+    "creator": "Robison M.K.",
+    "journal": "Journal of Experimental Psychology Human Perception and Performance",
+    "year": "2023",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1123/mc.2022-0042",
+    "title": "Do Cognitive, Physical, and Combined Tasks Induce Similar Levels of Mental Fatigue? Testing the Effects of Different Moderating Variables",
+    "creator": "Rubio-Morales A.",
+    "journal": "Motor Control",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1177/17479541211069536",
+    "title": "The role of mental fatigue in soccer: a systematic review",
+    "creator": "Gonz\u00e1lez-V\u00edllora S.",
+    "journal": "International Journal of Sports Science and Coaching",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1108/jcm-02-2021-4436",
+    "title": "Why do consumers free ride? Investigating the effects of cognitive effort on postpurchase dissonance",
+    "creator": "Nosi C.",
+    "journal": "Journal of Consumer Marketing",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "education/consumer domain",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1519/jsc.0000000000003453",
+    "title": "Influence of Mental Fatigue on Physical Performance, and Physiological and Perceptual Responses of Judokas Submitted to the Special Judo Fitness Test",
+    "creator": "Campos B.T.",
+    "journal": "Journal of Strength and Conditioning Research",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1590/s1980-657420220004822",
+    "title": "Mental fatigue and ball sports: a narrative review focused on physical, technical, and tactical performance",
+    "creator": "da Costa Y.P.",
+    "journal": "Motriz Revista De Educacao Fisica",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.3390/su13105755",
+    "title": "Is motivation associated with mental fatigue during padel trainings? A pilot study",
+    "creator": "D\u00edaz-Garc\u00eda J.",
+    "journal": "Sustainability Switzerland",
+    "year": "2021",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s11229-019-02347-x",
+    "title": "Tracking intentionalism and the phenomenology of mental effort",
+    "creator": "Doulatova M.",
+    "journal": "Synthese",
+    "year": "2021",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/bia52594.2022.9831344",
+    "title": "EMD-based Features for Cognitive Load and Stress Assessment from PPG Signals",
+    "creator": "Feradov F.",
+    "journal": "Proceedings of the International Conference on Biomedical Innovations and Applications Bia 2021",
+    "year": "2021",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.autcon.2020.103381",
+    "title": "Effects of physical fatigue on the induction of mental fatigue of construction workers: A pilot study based on a neurophysiological approach",
+    "creator": "Xing X.",
+    "journal": "Automation in Construction",
+    "year": "2020",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "ergonomics/HCI focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/tiptekno50054.2020.9299239",
+    "title": "Classification of Cognitive Fatigue with EEG Signals",
+    "creator": "Ekim A.",
+    "journal": "Tiptekno 2020 Tip Teknolojileri Kongresi 2020 Medical Technologies Congress Tiptekno 2020",
+    "year": "2020",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/jsen.2020.3001635",
+    "title": "Wearable devices for the assessment of cognitive effort for human-robot interaction",
+    "creator": "Villani V.",
+    "journal": "IEEE Sensors Journal",
+    "year": "2020",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "ergonomics/HCI focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/bia50171.2020.9244287",
+    "title": "Automated Detection of Cognitive Load from Peripheral Physiological Signals based on Hjorth's Parameters",
+    "creator": "Feradov F.",
+    "journal": "Proceedings of the International Conference on Biomedical Innovations and Applications Bia 2020",
+    "year": "2020",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1002/mde.3085",
+    "title": "The effect of cognitive load on economic decisions",
+    "creator": "Blaywais R.",
+    "journal": "Managerial and Decision Economics",
+    "year": "2019",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.psychsport.2019.04.005",
+    "title": "Effects of mental fatigue on exercise decision-making",
+    "creator": "Harris S.",
+    "journal": "Psychology of Sport and Exercise",
+    "year": "2019",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1287/mnsc.2018.3160",
+    "title": "The effectiveness of incentive schemes in the presence of implicit effort costs",
+    "creator": "Goerg S.J.",
+    "journal": "Management Science",
+    "year": "2019",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1371/journal.pone.0218405",
+    "title": "Mental fatigue impairs time trial performance in sub-elite under 23 cyclists",
+    "creator": "Filipas L.",
+    "journal": "Plos One",
+    "year": "2019",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.21437/interspeech.2019-1783",
+    "title": "Using pupil dilation to measure cognitive load when listening to text-to-speech in quiet and in noise",
+    "creator": "Govender A.",
+    "journal": "Proceedings of the Annual Conference of the International Speech Communication Association Interspeech",
+    "year": "2019",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1590/1517-869220182405180483",
+    "title": "Mental fatigue does not affect heart rate recovery but impairs performance in handball players",
+    "creator": "Penna E.",
+    "journal": "Revista Brasileira De Medicina do Esporte",
+    "year": "2018",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jesp.2018.01.005",
+    "title": "The Future and the Will: Planning requires self-control, and ego depletion leads to planning aversion",
+    "creator": "Sj\u00e5stad H.",
+    "journal": "Journal of Experimental Social Psychology",
+    "year": "2018",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "SUGGEST_INCLUDE",
+    "exclusion_reason": null,
+    "inclusion_signals": [
+      "effort-as-aversive"
+    ],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.11621/pir.2018.0406",
+    "title": "The role of mathematical and trait anxiety in mental fatigue: An EEG investigation",
+    "creator": "Zhban E.S.",
+    "journal": "Psychology in Russia State of the Art",
+    "year": "2018",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/02640414.2016.1252850",
+    "title": "Impact of mental fatigue on speed and accuracy components of soccer-specific skills",
+    "creator": "Smith M.R.",
+    "journal": "Science and Medicine in Football",
+    "year": "2017",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1201/9781315164809-56",
+    "title": "Eye blinking as an indicator of fatigue and mental effort in presence of different climatic conditions",
+    "creator": "Martins R.",
+    "journal": "Occupational Safety and Hygiene V Proceedings of the International Symposium on Occupational Safety and Hygiene Sho 2017",
+    "year": "2017",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/978-3-319-52503-7_10",
+    "title": "Estimation of mental fatigue during EEG based motor imagery",
+    "creator": "Talukdar U.",
+    "journal": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+    "year": "2017",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.biopsycho.2015.06.013",
+    "title": "The window of my eyes: Task disengagement and mental fatigue covary with pupil dynamics",
+    "creator": "Hopstaken J.F.",
+    "journal": "Biological Psychology",
+    "year": "2015",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.buildenv.2013.09.018",
+    "title": "Cerebral blood flow, fatigue, mental effort, and task performance in offices with two different pollution loads",
+    "creator": "Nishihara N.",
+    "journal": "Building and Environment",
+    "year": "2014",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1017/s0140525x13001179",
+    "title": "The economics of cognitive effort",
+    "creator": "Westbrook J.A.",
+    "journal": "Behavioral and Brain Sciences",
+    "year": "2013",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/ner.2013.6696189",
+    "title": "Ongoing EEG oscillatory dynamics suggesting evolution of mental fatigue in a color-word matching stroop task",
+    "creator": "Shou G.",
+    "journal": "International IEEE EMBS Conference on Neural Engineering Ner",
+    "year": "2013",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "REVIEW_NEEDED",
+    "exclusion_reason": null,
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/embc.2012.6347469",
+    "title": "Assessment of mental fatigue during car driving by using high resolution EEG activity and neurophysiologic indices",
+    "creator": "Borghini G.",
+    "journal": "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society EMBS",
+    "year": "2012",
+    "score": 3,
+    "layers": [
+      "L1"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "ergonomics/HCI focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1111/eip.13149",
+    "title": "N-acetylcysteine for depression and glutamate changes in the left prefrontal cortex in adolescents and young adults at risk for bipolar disorder: A pilot study",
+    "creator": "Nery F.G.",
+    "journal": "Early Intervention in Psychiatry",
+    "year": "2022",
+    "score": 3,
+    "layers": [
+      "L2"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1074/mcp.m115.056580",
+    "title": "Apolipoprotein E\u22174 (APOE\u22174) genotype is associated with altered levels of glutamate signaling proteins and synaptic coexpression networks in the prefrontal cortex in mild to moderate Alzheimer disease",
+    "creator": "Sweet R.A.",
+    "journal": "Molecular and Cellular Proteomics",
+    "year": "2016",
+    "score": 3,
+    "layers": [
+      "L2"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.2174/1745017901612010094",
+    "title": "Prior acute mental exertion in exercise and sport",
+    "creator": "Lopes E Silva F.",
+    "journal": "Clinical Practice and Epidemiology in Mental Health",
+    "year": "2016",
+    "score": 3,
+    "layers": [
+      "L2"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "sport performance focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1021/acs.energyfuels.5c00793",
+    "title": "State-of-the-Art Membrane Solutions for Direct Air Carbon Capture (DACC): An Overview on the Current Status and Future Directions",
+    "creator": "Ali S.A.",
+    "journal": "Energy and Fuels",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/infocom55648.2025.11044755",
+    "title": "DACC: Data Augmentation for Learning-based Congestion Control",
+    "creator": "Zhu X.",
+    "journal": "Proceedings IEEE INFOCOM",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/bci60775.2024.10480504",
+    "title": "Enhanced inhibitory control after out-of-phase theta tACS between the lDLPFC and dACC",
+    "creator": "Kim Y.",
+    "journal": "International Winter Conference on Brain Computer Interface Bci",
+    "year": "2024",
+    "score": 3,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.12968/jowc.2023.32.sup8a.s13",
+    "title": "Experimental and clinical evidence for DACC-coated dressings: An update",
+    "creator": "Rippon M.",
+    "journal": "Journal of Wound Care",
+    "year": "2023",
+    "score": 3,
+    "layers": [
+      "L3"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1038/s41467-025-66938-8",
+    "title": "Score matching the descriptor density of states for model-agnostic free energy estimation",
+    "creator": "Swinburne T.D.",
+    "journal": "Nature Communications",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.brat.2026.104985",
+    "title": "No distorted prediction error processing in depression? Pupillary responses to expected vs. unexpected emotional information in clinically depressed and healthy individuals",
+    "creator": "Spaeth A.M.",
+    "journal": "Behaviour Research and Therapy",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "clinical population only",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jacr.2025.11.014",
+    "title": "Evaluating the Association Between Allostatic Load and Malignancy on Image-Guided Breast Biopsy",
+    "creator": "Kwak L.",
+    "journal": "Journal of the American College of Radiology",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1364/jocn.566810",
+    "title": "From artificial intelligence to active inference: the key to true AI and the 6G world brain [Invited]",
+    "creator": "Maier M.",
+    "journal": "Journal of Optical Communications and Networking",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1109/lra.2025.3636032",
+    "title": "Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model",
+    "creator": "Fujii K.",
+    "journal": "IEEE Robotics and Automation Letters",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "ergonomics/HCI focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.3390/s26020604",
+    "title": "Active Inference Modeling of Socially Shared Cognition in Virtual Reality",
+    "creator": "Arima Y.",
+    "journal": "Sensors",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1080/10253890.2026.2635367",
+    "title": "Allostatic load in psychiatry: a systematic review and meta-analysis",
+    "creator": "Finlay S.",
+    "journal": "Stress",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.neuroimage.2025.121660",
+    "title": "Shaping Memory from the Start: Initial Prediction Errors during First Encoding",
+    "creator": "Liedtke N.",
+    "journal": "Neuroimage",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s13762-025-06790-x",
+    "title": "Energy information trade-offs in predictive coding inspired neural architectures for urban climate predictive coding for urban climate",
+    "creator": "Afshar Kazemi M.A.",
+    "journal": "International Journal of Environmental Science and Technology",
+    "year": "2026",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1038/s41593-025-02104-z",
+    "title": "Estrogen modulates reward prediction errors and reinforcement learning",
+    "creator": "Golden C.E.M.",
+    "journal": "Nature Neuroscience",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1111/sjop.13124",
+    "title": "Working Memory Predicts Long-Term Recognition of Auditory Sequences: Dissociation Between Confirmed Predictions and Prediction Errors",
+    "creator": "Bonetti L.",
+    "journal": "Scandinavian Journal of Psychology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s12671-025-02712-7",
+    "title": "Effectiveness of the Brief Self-Implemented Mindfulness-Based Interoceptive Exposure Task Taught Online in a Mixed Chronic Pain Group",
+    "creator": "Hodren N.",
+    "journal": "Mindfulness",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.jneuroling.2025.101284",
+    "title": "From movements to words: action monitoring in the medial frontal cortex along a caudal to rostral prediction error gradient",
+    "creator": "Dorokhova L.",
+    "journal": "Journal of Neurolinguistics",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1145/3746027.3755313",
+    "title": "Cognitive Predictive Coding Network: Rethinking the Generalization in Raven's Progressive Matrices",
+    "creator": "Zhang X.",
+    "journal": "Mm 2025 Proceedings of the 33rd ACM International Conference on Multimedia Co Located with mm 2025",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1145/3745900.3746096",
+    "title": "Meditation Support System Utilizing Pseudo-Heartbeat Auditory Feedback to Enhance Cardiac Interoceptive Awareness",
+    "creator": "Shimabukuro A.",
+    "journal": "Ahs 2025 Proceedings of the Augmented Humans International Conference 2025",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.3390/app152010904",
+    "title": "From Predictive Coding to EBPM: A Novel DIME Integrative Model for Recognition and Cognition",
+    "creator": "Vladu I.C.",
+    "journal": "Applied Sciences Switzerland",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.neuron.2025.06.019",
+    "title": "Of hope from fading will: Interoceptive signaling and the behavioral biology of cachexia",
+    "creator": "Janowitz T.",
+    "journal": "Neuron",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1002/bmm2.12138",
+    "title": "Deciphering the skeletal interoceptive circuitry to control bone homeostasis",
+    "creator": "Wu Y.",
+    "journal": "Bmemat",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.drugalcdep.2025.112741",
+    "title": "Enhancing interoceptive awareness in chronic pain and opioid misuse via mindfulness-oriented recovery enhancement",
+    "creator": "Parisi A.",
+    "journal": "Drug and Alcohol Dependence",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "pharmacological focus",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.3390/info16090751",
+    "title": "Representationalism and Enactivism in Cognitive Translation Studies: A Predictive Processing Perspective",
+    "creator": "Carl M.",
+    "journal": "Information Switzerland",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1086/720861",
+    "title": "The Literalist Fallacy and the Free Energy Principle: Model Building, Scientific Realism, and Instrumentalism",
+    "creator": "Kirchhoff M.D.",
+    "journal": "British Journal for the Philosophy of Science",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s11097-023-09898-y",
+    "title": "Can the predictive mind represent time? A critical evaluation of predictive processing attempts to address husserlian time-consciousness",
+    "creator": "Bogot\u00e1 J.D.",
+    "journal": "Phenomenology and the Cognitive Sciences",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.ress.2025.111012",
+    "title": "Learning non-stationary model of prediction errors with hierarchical Bayesian modeling",
+    "creator": "Ping M.",
+    "journal": "Reliability Engineering and System Safety",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1162/neco_a_01769",
+    "title": "Predictive Coding Model Detects Novelty on Different Levels of Representation Hierarchy",
+    "creator": "Li T.E.",
+    "journal": "Neural Computation",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1016/j.biopsych.2024.11.014",
+    "title": "Oscillatory Traveling Waves Provide Evidence for Predictive Coding Abnormalities in Schizophrenia",
+    "creator": "Alamia A.",
+    "journal": "Biological Psychiatry",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.4103/ijsp.ijsp_124_24",
+    "title": "Interoceptive Awareness and Emotion Regulation among Individuals Diagnosed with Somatoform Disorder: The Mediating Role of Psychological Flexibility",
+    "creator": "Wadhawan A.",
+    "journal": "Indian Journal of Social Psychiatry",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1007/s41811-025-00235-6",
+    "title": "Exploring the Relationship between Anxiety Sensitivity, Interoceptive Sensibility and Psychopathology: A Network Analysis Approach",
+    "creator": "Gualtieri I.",
+    "journal": "International Journal of Cognitive Behavioral Therapy",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.1111/psyp.70078",
+    "title": "Cardiac Interoceptive Accuracy: An Empirical Comparison of Three Ability Measures",
+    "creator": "Ferentzi E.",
+    "journal": "Psychophysiology",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L4"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  },
+  {
+    "doi": "10.12783/shm2025/37580",
+    "title": "Non-Intrusive Cognitive Load Estimation Using Footstep-Induced Structural Vibration Signals",
+    "creator": "Chakraborty M.",
+    "journal": "Structural Health Monitoring 2025 Ensuring Mobility and Autonomy with Sustainability Proceedings of the 15th International Workshop on Structural Health Monitoring Iwshm 2025",
+    "year": "2025",
+    "score": 3,
+    "layers": [
+      "L5"
+    ],
+    "decision": "EXCLUDE",
+    "exclusion_reason": "insufficient effort+outcome overlap",
+    "inclusion_signals": [],
+    "already_included": false,
+    "abstract_preview": ""
+  }
+]
